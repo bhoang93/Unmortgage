@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Unmortgage/precache-manifest.75fa058e214ca2d91ebf755f9da16565.js"
+  "/Unmortgage/precache-manifest.2c4be7af303a8d617a20ce400c61371a.js"
 );
 
 workbox.clientsClaim();
