@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/unmortgage/precache-manifest.baaa1edc9eabb06b1ff6e09ea77b908f.js"
+  "/Unmortgage/precache-manifest.75fa058e214ca2d91ebf755f9da16565.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/unmortgage/index.html", {
+workbox.routing.registerNavigationRoute("/Unmortgage/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
