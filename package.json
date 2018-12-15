@@ -1,10 +1,9 @@
 {
   "name": "unmortgage",
   "version": "0.1.0",
-  "homepage": "http://bhoang93.github.io/unmortgage",
+  "homepage": "http://bhoang93.github.io/Unmortgage",
   "private": true,
   "dependencies": {
-    "gh-pages": "^2.0.1",
     "google-map-react": "^1.1.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
@@ -31,5 +30,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }

@@ -39,7 +39,7 @@ const FormButton = styled.div`
     background-color: #df5040;
 
     &::after {
-      background-color: #ff3e23;
+      background-color: #a53b30;
     }
   }
 `;

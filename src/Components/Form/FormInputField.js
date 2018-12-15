@@ -2,6 +2,7 @@ import styled from "styled-components";
 import NumberFormat from "react-number-format";
 
 const FormInputField = styled(NumberFormat)`
+  background-color: #f7f7f7;
   width: 90%;
   font-size: 3rem;
   border: none;
@@ -10,7 +11,7 @@ const FormInputField = styled(NumberFormat)`
   transition: all 0.3s;
 
   &:focus {
-    background-color: #d8d8d8;
+    background-color: #e5e5e5;
   }
 `;
 
